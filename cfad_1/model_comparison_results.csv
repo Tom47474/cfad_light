@@ -1,0 +1,11 @@
+Model,Parameters,Size (MB),Inference Time (ms),Error
+SOFTS,0,0,0,"mat1 and mat2 must have the same dtype, but got Double and Float"
+SOFTS_Modified,0,0,0,"mat1 and mat2 must have the same dtype, but got Double and Float"
+TCN,0,0,0,Input type (double) and bias type (float) should be the same
+LSTM,0,0,0,forward() takes 2 positional arguments but 3 were given
+GRU,0,0,0,forward() takes 2 positional arguments but 3 were given
+MLP,0,0,0,forward() takes 2 positional arguments but 3 were given
+Transformer,0,0,0,forward() takes 2 positional arguments but 3 were given
+Informer,0,0,0,"mat1 and mat2 must have the same dtype, but got Double and Float"
+Autoformer,0,0,0,"mat1 and mat2 must have the same dtype, but got Double and Float"
+LightTS,0,0,0,forward() takes 2 positional arguments but 3 were given
